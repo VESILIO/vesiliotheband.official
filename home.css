@@ -1,0 +1,170 @@
+body {
+    /*background-color: rgb(191, 175, 255);*/
+    background: linear-gradient(to right, rgb(103, 5, 168), rgb(191, 175, 255), rgb(211, 177, 222), #ffffff);
+    background-image: url(media/vesilio_background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+td {
+    padding: 10px;
+    text-align: center;
+
+}
+
+td img {
+    height: 50px;
+}
+
+header img {
+    width: 50%;
+    border-radius: 10px;
+    max-width: 100%;
+    height: auto;
+    margin-top: 2%;
+    border: solid 3px rgb(103, 5, 168);
+}
+
+header img:hover {
+    border-color: rgb(191, 175, 255);
+}
+
+header figure {
+    text-align: center;
+}
+
+header h1 {
+    text-align: center;
+    font-family: belezza;
+    font-size: 50px;
+    margin-top: 1%;
+
+}
+
+nav table {
+    width: 100%;
+    text-align: center;
+    background-color: #ffffff;
+    /*position: fixed;*/
+
+}
+
+
+
+nav td {
+    text-align: center;
+    border-style: solid;
+    width: 20%;
+}
+
+#vesilio {
+    border-bottom: solid black 3px;
+}
+
+
+
+#logo {
+    border: none;
+    width: 60 px;
+}
+
+
+
+nav a {
+    background: linear-gradient(to right, rgb(191, 175, 255), rgb(211, 177, 222), #ffffff, rgb(211, 177, 222), rgb(191, 175, 255));
+    border: solid 3px rgb(57, 57, 57);
+    border-radius: 25px;
+    padding: 2%;
+    text-decoration: none;
+
+    color: black;
+    font-family: belezza;
+
+
+}
+
+nav a:hover {
+    border: ridge 5px rgb(97, 97, 97);
+    font-size: larger;
+
+
+}
+
+.gfm-embed {
+    width: 350px;
+}
+
+#debutsong {
+    margin-left: auto;
+    margin-right: auto;
+    background-color: antiquewhite;
+    border: solid 3px rgb(103, 5, 168);
+    border-radius: 20px;
+    border-collapse: separate;
+    font-size: x-large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
+
+
+iframe {
+    border-radius: 20px;
+}
+
+h2 {
+    text-align: center;
+    font-family: belezza;
+}
+
+footer {
+    font-family: belezza;
+    font-size: small;
+
+}
+
+footer a {
+    color: black;
+
+}
+
+footer h6 {
+    margin-left: 48%;
+    margin-right: 50%;
+}
+
+footer ul {
+    float: left;
+}
+
+footer img {
+    float: right;
+    height: 50px;
+}
+
+#who {
+    margin-left: auto;
+    margin-right: auto;
+    background-color: antiquewhite;
+    border: solid 3px rgb(103, 5, 168);
+    border-radius: 20px;
+    border-collapse: separate;
+    width: 50%;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+form {
+    margin-left: auto;
+    margin-right: auto;
+    background-color: antiquewhite;
+    border: solid 3px rgb(103, 5, 168);
+    border-radius: 20px;
+    border-collapse: separate;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+fieldset {
+    padding: 50px;
+}
